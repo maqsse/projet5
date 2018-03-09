@@ -1,0 +1,6 @@
+formatage des dates...datepicker de materialize pose problème, je l'enlève
+je commence le travail sur le système de notification inspiré de youtube : un membre, dans sa liste de favoris, voit si un de ses favoris a écrit une nouvelle 
+réponse ou un nouveau sujet
+
+
+
