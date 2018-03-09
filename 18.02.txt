@@ -1,0 +1,6 @@
+Choix du framework materialize pour la partie design.
+Création d'une petite structure pour la présentation générale du forum mais juste grossièrement. Je préfère m'occuper des fonctionnalités d'abord.
+Mise en place du HTML des vues.
+
+
+
