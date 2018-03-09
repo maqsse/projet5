@@ -1,0 +1,4 @@
+tests sur l'ensemble des fonctionnalités de l'application
+travail sur certaines redirections dans les controllers
+
+
