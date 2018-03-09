@@ -1,0 +1,5 @@
+namespaces mais absent du framework
+hachage mdp en admin
+travail sur table favoris
+
+
