@@ -1,0 +1,14 @@
+Mise en place de ma structure MVC
+Modifications configuration de codeigniter
+refléxions sur les différentes fonctionnalités de l'application :
+-Partie frontend
+page d'accueil<< affichage des derniers sujets, pagination et accés grâce à un menu à différentes pages.
+formulaires pour s'inscrire et se connecter
+Une fois inscrit, connexion, espace membre. Dans espace membre affichage de tous les sujets sous forme de pagination où les auteurs des sujets et les sujets sont maintenant
+cliquables pour avoir des infos ou répondre à un sujet.
+Plusieurs actions se présentent au membre comme par exemple : mettre à jour son profil, écrire un nouveau sujet, modifier ses infos...
+- Partie backend
+page administration où apparaissent des tableaux dans lesquels il y a les signalements des membres ( sujets, réponses )
+Possibilité d'écrire un sujet, supprimer ou non un signalement
+
+
