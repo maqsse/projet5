@@ -1,0 +1,9 @@
+Début du travail P5
+Choix de projet : forum
+Dans la continuité des projets précédents l'idée de créer un forum me semble logique. C'est une application qui est abordable me semble t'il apriori, qui
+englobe toutes les compétences apprises et qui permet une créativité personnelle intéressante.
+Le choix du framework codeigniter se porte sur sa simplicité de présentation, sa documentation fournie et son accessibilité au regard de mon expérience.
+Je n'ai jamais utilisé de framework PHP c'est donc ici l'occasion d'apprendre un nouvel outil et d'avoir un regard différent sur l'orienté objet dans ce contexte.
+ 
+
+
