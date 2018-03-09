@@ -1,0 +1,10 @@
+partie frontend
+système pour voir son profil
+supprimer son profil
+mise à jour du profil
+voir ses sujets
+système pour voir les infos d'un membre quand on clique sur son pseudo 
+
+
+
+
