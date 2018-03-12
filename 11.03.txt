@@ -1,0 +1,4 @@
+hachage mdp membres
+exceptions db_debug dans la classe Database.php
+
+
