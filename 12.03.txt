@@ -1,0 +1,2 @@
+requête AJAX (vérif identifiants admin)
+
