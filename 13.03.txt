@@ -1,0 +1,3 @@
+suppression requete AJAX...pas appropriée pour validation données formulaire. Trouver une autre solution
+Etude de la classe Upload.php 
+
