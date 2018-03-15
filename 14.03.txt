@@ -1,0 +1,2 @@
+sytème d'upload d'images au serveur et enregistrement en bdd 
+requête AJAX
