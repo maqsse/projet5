@@ -1,0 +1,2 @@
+sécurisation sur authentification membres, maintenant la vérif se fait aussi avec le mdp
+commencement du design
