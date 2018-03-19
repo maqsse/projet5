@@ -1,0 +1,2 @@
+- pages erreur et succés
+- méthode pour éviter doublons pour les favoris
