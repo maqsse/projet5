@@ -1,0 +1,4 @@
+recherches sur les namespace
+maj sujets pbm
+travail sur affichage réponses ...plus rien ne s'affiche quand on met une condition (where) et que l'on pase par le formulaire. Si données entrées
+directement ds la bdd il y a affichage
