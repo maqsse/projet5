@@ -1,0 +1,5 @@
+- pbm avec le formulaire d'envoi des réponses, elles ne s'affichent pas...résolu...mettre double quotes à l'attribut action
+- vue des sujets membres, affichage 2* footer ...résolu ...doublon dans un fichier
+- MAJ des sujets et des réponses ...impossible...erreur dans le controller...résolu
+- contenu de la <div> pour MAJ réponses et sujets pbm avec modal de matérialize...ajout de la référence à l'ID dans le href de la balise <a>
+- refonte des paginations
