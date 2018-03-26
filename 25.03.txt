@@ -1,0 +1,2 @@
+- suppression du mdp des membres dans URL 
+- écriture de quelques messages d'erreurs personnalisés selon la nature de l'erreur.
