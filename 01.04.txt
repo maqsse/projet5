@@ -1,0 +1,2 @@
+correction erreur das affichage du titre dans lequel il y a une apostrophe...fonctions ent_quotes et ent_noquotes
+fixer le footer en bas de page
